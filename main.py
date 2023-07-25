@@ -20,7 +20,7 @@ import traceback
 # myenv\Scripts\activate to go into virtal envi
 
 # discord bot token to talk with code
-TOKEN = "MTEyMTYyMzc0NzY0OTA5MzYzMg.GToqgQ.yi37Pehcy8H47fksB-VfspND4z90Obo57ysvfo"
+TOKEN = "Discord Bot Token"
 
 # send connection for quizQuestions
 def get_QT_connection():
